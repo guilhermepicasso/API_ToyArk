@@ -12,3 +12,6 @@ categoria varchar(50),
 imagem varchar(255)
 
 );
+
+select * from figure;
+
